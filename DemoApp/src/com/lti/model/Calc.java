@@ -16,6 +16,11 @@ public class Calc {
 		System.out.println("product= " + ((num1 * num2)));
 
 	}
+	public void div(int num1, int num2) {
+
+		System.out.println("duv= " + ((num1 / num2)));
+
+	}
 	
 
 }
